@@ -1,11 +1,5 @@
-# The Complete Guide To Building A REST API With Node, Express, TypeScript & MongoDB
+# REST API With Node, Express, TypeScript & MongoDB
 
-![Untitled design (1)](https://user-images.githubusercontent.com/23248726/219093382-a1874751-a2f0-4be6-8bed-3c266276b57c.png)
-
-
-This is a repository for a REST API tutorial using Node, Express, Typescript & MongoDB.
-
-[Video Link](https://youtu.be/b8ZUb_Okxro)
 
 Features:
 
@@ -21,11 +15,6 @@ Features:
 
 **Node version 14.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial.git
-```
 
 ### Install packages
 
